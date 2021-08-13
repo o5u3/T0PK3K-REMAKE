@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Cstly/Scripts/main/Selexity.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/o5u3/selexity/main/Main'),true))()
