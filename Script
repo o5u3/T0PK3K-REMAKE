@@ -1,5 +1,3 @@
--- loadstring(game:HttpGet(""))()
-
 --{ Instances: }--
 
 local TKR = Instance.new("ScreenGui")
@@ -75,7 +73,7 @@ TKR.Name = "TKR"
 TKR.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 TKR.ResetOnSpawn = false
 
----> Property of aWx5 <---
+---> Property of ᴉʍᴉʞ <---
 
 
 local lpr = game.Players.LocalPlayer
@@ -84,7 +82,7 @@ local lpr = game.Players.LocalPlayer
 
 local name = game.Players.LocalPlayer.DisplayName
 local place = game.PlaceId
-local ping = "-"
+local ping = "-ᴉʍᴉʞ"
 local filteringenabled = game.Workspace.FilteringEnabled
 
 --{ Topbar Buttons: }--
@@ -288,7 +286,7 @@ TextLabel_9.BorderSizePixel = 0
 TextLabel_9.Position = UDim2.new(0, 6, 0, 176)
 TextLabel_9.Size = UDim2.new(1, -12, 0, 20)
 TextLabel_9.Font = Enum.Font.SourceSans
-TextLabel_9.Text = "?: "..tostring(ping)
+TextLabel_9.Text = "This will no longer receive updates. "..tostring(ping)
 TextLabel_9.TextColor3 = Color3.fromRGB(199, 199, 199)
 TextLabel_9.TextSize = 14.000
 
@@ -298,7 +296,7 @@ TextLabel_10.BorderSizePixel = 0
 TextLabel_10.Position = UDim2.new(0, 6, 0, 203)
 TextLabel_10.Size = UDim2.new(1, -12, 0, 20)
 TextLabel_10.Font = Enum.Font.SourceSans
-TextLabel_10.Text = "Join our discord! discord.gg/z6Ggtqh5W8"
+TextLabel_10.Text = "Join our discord! discord.gg/tU87b6w"
 TextLabel_10.TextColor3 = Color3.fromRGB(199, 199, 199)
 TextLabel_10.TextSize = 14.000
 
@@ -657,10 +655,10 @@ Hello and welcome to T0PK3K Remake!
 
 This gui includes FE scripts that
 have been showcased on FO10's
-YouTube channel.
+old YouTube channel.
 
 Discord:
-discord.gg/z6Ggtqh5W8
+discord.gg/tU87b6w
 
 ]])
 TextLabel_12.TextColor3 = Color3.fromRGB(199, 199, 199)
@@ -702,7 +700,7 @@ TextLabel_14.BorderSizePixel = 0
 TextLabel_14.Position = UDim2.new(0, 6, 0, 29)
 TextLabel_14.Size = UDim2.new(1, -17, 0, 20)
 TextLabel_14.Font = Enum.Font.SourceSans
-TextLabel_14.Text = "Devnote: aWx5 is cool!! i think."
+TextLabel_14.Text = "Devnote: This will no longer receive updates. -ᴉʍᴉʞ"
 TextLabel_14.TextColor3 = Color3.fromRGB(199, 199, 199)
 TextLabel_14.TextSize = 14.000
 
@@ -720,7 +718,7 @@ FO10 - Scripts Provider
 
 Bubba - Gui
 
-aWx5 - Gui & Gui Scripts
+ᴉʍᴉʞ - Gui & Gui Scripts
 
 Credit to the script owners
 
